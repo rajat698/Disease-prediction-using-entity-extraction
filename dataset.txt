@@ -1,0 +1,372 @@
+﻿Team 5 Datasets
+
+
+The following datasets are retrieved from the Mayo Clinic website accessible at: https://www.mayoclinic.org/diseases-conditions/index?letter=Z
+
+
+1. Asbestosis is a chronic lung disease caused by inhaling asbestos fibers. Prolonged exposure to these fibers can cause lung tissue scarring and shortness of breath. Asbestosis symptoms can range from mild to severe, and usually don't appear until many years after initial exposure. Only trained and accredited asbestos professionals should manage asbestos products. Treatment focuses on relieving your symptoms.
+
+
+Source:https://www.mayoclinic.org/diseases-conditions/asbestosis/symptoms-causes/syc-20354637
+	2. Aspergillosis is an infection caused by a type of mold (fungus). The illnesses resulting from aspergillosis infection usually affect the respiratory system, but their signs and severity vary greatly. Depending on the type of aspergillosis, treatment may involve observation, antifungal medications or, in rare cases, surgery. The signs and symptoms of aspergillosis vary with the type of illness you develop
+Source: https://www.mayoclinic.org/diseases-conditions/aspergillosis/symptoms-causes/syc-20369619
+	3. An ACL injury is a tear or sprain of the anterior cruciate ligament (ACL) — one of the strong bands of tissue that help connect your thigh bone (femur) to your shinbone (tibia). Depending on the severity of your ACL injury, treatment may include rest and rehabilitation exercises to help you regain strength and stability, or surgery to replace the torn ligament followed by rehabilitation. Signs and symptoms of an ACL injury usually include:
+* A loud pop or a "popping" sensation in the knee
+* Severe pain and inability to continue activity
+* Rapid swelling
+* Loss of range of motion
+* A feeling of instability or "giving way" with weight bearing
+Source: https://www.mayoclinic.org/diseases-conditions/acl-injury/symptoms-causes/syc-20350738
+	4. Impetigo is a common and highly contagious skin infection that mainly affects infants and young children. Treatment with antibiotics can limit the spread of impetigo to others. The main symptom of impetigo is reddish sores, often around the nose and mouth. 
+
+
+Source: https://www.mayoclinic.org/diseases-conditions/impetigo/symptoms-causes/syc-20352352
+	5. Atelectasis is a complete or partial collapse of the entire lung or area (lobe) of the lung. It occurs when the tiny air sacs (alveoli) within the lung become deflated or possibly filled with alveolar fluid. Atelectasis can make breathing difficult, particularly if you already have lung disease. Treatment depends on the cause and severity of the collapse. There may be no obvious signs or symptoms of atelectasis. If you do have signs and symptoms, they may include:
+* Difficulty breathing
+* Rapid, shallow breathing
+* Wheezing
+* Cough
+
+
+Source: https://www.mayoclinic.org/diseases-conditions/atelectasis/symptoms-causes/syc-20369684
+	6. Acute coronary syndrome is a term used to describe a range of conditions associated with sudden, reduced blood flow to the heart. Acute coronary syndrome often causes severe chest pain or discomfort. It is a medical emergency that requires prompt diagnosis and care. The goals of treatment include improving blood flow, treating complications and preventing future problems. The signs and symptoms of acute coronary syndrome usually begin abruptly. They include:
+* Chest pain (angina) or discomfort, often described as aching, pressure, tightness or burning
+* Pain spreading from the chest to the shoulders, arms, upper abdomen, back, neck or jaw
+* Nausea or vomiting
+* Indigestion
+* Shortness of breath (dyspnea)
+* Sudden, heavy sweating (diaphoresis)
+* Lightheadedness, dizziness or fainting
+* Unusual or unexplained fatigue
+* Feeling restless or apprehensive
+Source: https://www.mayoclinic.org/diseases-conditions/acute-coronary-syndrome/symptoms-causes/syc-20352136
+	7. Agoraphobia (ag-uh-ruh-FOE-be-uh) is a type of anxiety disorder in which you fear and avoid places or situations that might cause you to panic and make you feel trapped, helpless or embarrassed. Agoraphobia treatment can be challenging because it usually means confronting your fears. But with psychotherapy and medications, you can escape the trap of agoraphobia and live a more enjoyable life. Typical agoraphobia symptoms include fear of:
+* Leaving home alone
+* Crowds or waiting in line
+* Enclosed spaces, such as movie theaters, elevators or small stores
+* Open spaces, such as parking lots, bridges or malls
+* Using public transportation, such as a bus, plane or train
+Source: https://www.mayoclinic.org/diseases-conditions/agoraphobia/symptoms-causes/syc-20355987
+	8. Ameloblastoma is a rare, noncancerous (benign) tumor that develops most often in the jaw near the molars. Ameloblastoma begins in the cells that form the protective enamel lining on your teeth. The most common type of ameloblastoma is aggressive, forming a large tumor and growing into the jawbone. Treatment may include surgery and radiation. Ameloblastoma often causes no symptoms, but signs and symptoms may include pain and a lump or swelling in the jaw.
+
+
+Source: https://www.mayoclinic.org/diseases-conditions/ameloblastoma/symptoms-causes/syc-20351278
+	9. Amenorrhea (uh-men-o-REE-uh) is the absence of menstruation, often defined as missing one or more menstrual periods. Treatment of amenorrhea depends on the underlying cause. Depending on the cause of amenorrhea, you might experience other signs or symptoms along with the absence of periods, such as:
+* Milky nipple discharge
+* Hair loss
+* Headache
+* Vision changes
+* Excess facial hair
+* Pelvic pain
+* Acne
+Source: https://www.mayoclinic.org/diseases-conditions/amenorrhea/symptoms-causes/syc-20369299
+	10. Amyloidosis (am-uh-loi-DO-sis) is a rare disease that occurs when a protein called amyloid builds up in organs. This amyloid buildup can make the organs not work properly. Treatments may include chemotherapy with strong drugs used to treat cancer. Other types of medications can reduce amyloid production and control symptoms. Some people may benefit from organ or stem cell transplants. You may not experience symptoms of amyloidosis until later in the course of the disease. Symptoms may vary, depending on which organs are affected.
+           Signs and symptoms of amyloidosis may include:
+* Severe fatigue and weakness
+* Shortness of breath
+* Numbness, tingling, or pain in the hands or feet
+* Swelling of the ankles and legs
+* Diarrhea, possibly with blood, or constipation
+* An enlarged tongue, which sometimes looks rippled around its edge
+* Skin changes, such as thickening or easy bruising, and purplish patches around the eyes
+Source: https://www.mayoclinic.org/diseases-conditions/amyloidosis/symptoms-causes/syc-20353178
+	11. An anal fissure is a small tear in the thin, moist tissue (mucosa) that lines the anus. An anal fissure may occur when you pass hard or large stools during a bowel movement. Most anal fissures get better with simple treatments, such as increased fiber intake or sitz baths. Some people with anal fissures may need medication or, occasionally, surgery. Signs and symptoms of an anal fissure include:
+* Pain, sometimes severe, during bowel movements
+* Pain after bowel movements that can last up to several hours
+* Bright red blood on the stool or toilet paper after a bowel movement
+* A visible crack in the skin around the anus
+* A small lump or skin tag on the skin near the anal fissure
+Source: https://www.mayoclinic.org/diseases-conditions/anal-fissure/symptoms-causes/syc-20351424
+	12. Angiosarcoma is a rare type of cancer that forms in the lining of the blood vessels and lymph vessels. The lymph vessels are part of the immune system. Treatment depends on where the cancer is located. Treatments may include surgery, radiation therapy and chemotherapy. Angiosarcoma signs and symptoms may vary based on where the cancer occurs.
+
+
+Source: https://www.mayoclinic.org/diseases-conditions/angiosarcoma/symptoms-causes/syc-20350244
+	13. Aphasia is a disorder that affects how you communicate. It can impact your speech, as well as the way you write and understand both spoken and written language. The main treatment for aphasia involves treating the condition that causes it, as well as speech and language therapy. Aphasia is a symptom of some other condition, such as a stroke or a brain tumor.
+
+
+Source: https://www.mayoclinic.org/diseases-conditions/aphasia/symptoms-causes/syc-20369518
+	14. Appendicitis is an inflammation of the appendix, a finger-shaped pouch that projects from your colon on the lower right side of your abdomen. Although anyone can develop appendicitis, most often it occurs in people between the ages of 10 and 30. Standard treatment is surgical removal of the appendix. Signs and symptoms of appendicitis may include:
+* Sudden pain that begins on the right side of the lower abdomen
+* Sudden pain that begins around your navel and often shifts to your lower right abdomen
+* Pain that worsens if you cough, walk or make other jarring movements
+* Nausea and vomiting
+* Loss of appetite
+* Low-grade fever that may worsen as the illness progresses
+* Constipation or diarrhea
+* Abdominal bloating
+* Flatulence
+Source: https://www.mayoclinic.org/diseases-conditions/appendicitis/symptoms-causes/syc-20369543
+	15. Astigmatism is a common and generally treatable imperfection in the curvature of the eye that causes blurred distance and near vision. Astigmatism is often present at birth and may occur in combination with nearsightedness or farsightedness. Often it's not pronounced enough to require corrective action. When it is, treatment options are corrective lenses or surgery. Signs and symptoms of astigmatism may include:
+* Blurred or distorted vision
+* Eyestrain or discomfort
+* Headaches
+* Difficulty with night vision
+* Squinting
+Source: https://www.mayoclinic.org/diseases-conditions/astigmatism/symptoms-causes/syc-20353835
+	16. Brucellosis is a bacterial infection that spreads from animals to people. Most commonly, people are infected by eating raw or unpasteurized dairy products. Signs and symptoms of brucellosis may include fever, joint pain and fatigue. The infection can usually be treated with antibiotics. However, treatment takes several weeks to months, and the infection can recur.
+
+
+Source: https://www.mayoclinic.org/diseases-conditions/brucellosis/symptoms-causes/syc-20351738
+	17. Cervicitis is an inflammation of the cervix, the lower, narrow end of the uterus that opens into the vagina. Possible symptoms of cervicitis include bleeding between menstrual periods, pain with intercourse or during a pelvic exam, and abnormal vaginal discharge. Successful treatment of cervicitis involves treating the underlying cause of the inflammation.
+
+
+Source: https://www.mayoclinic.org/diseases-conditions/cervicitis/symptoms-causes/syc-20370814
+	18. Cholecystitis (ko-luh-sis-TIE-tis) is inflammation of the gallbladder. The gallbladder is a small, pear-shaped organ on the right side of the belly (abdomen), beneath the liver. If left untreated, cholecystitis can lead to severe, sometimes life-threatening complications, such as a gallbladder rupture. Treatment for cholecystitis often involves surgery to remove the gallbladder. Symptoms of cholecystitis may include:
+* Severe pain in your upper right or center abdomen
+* Pain that spreads to your right shoulder or back
+* Tenderness over your abdomen when it's touched
+* Nausea
+* Vomiting
+* Fever
+Source: https://www.mayoclinic.org/diseases-conditions/cholecystitis/symptoms-causes/syc-20364867
+	19. Chondrosarcoma is a rare type of cancer that usually begins in the bones, but can sometimes occur in the soft tissue near bones. Chondrosarcoma treatment usually involves surgery. Other options might include radiation therapy and chemotherapy. Chondrosarcoma tends to grow slowly, so it might not cause signs and symptoms at first. When they occur, signs and symptoms of chondrosarcoma may include:
+* Increasing pain
+* A growing lump or area of swelling
+* Weakness or bowel and bladder control problems, if the cancer presses on the spinal cord
+Source: https://www.mayoclinic.org/diseases-conditions/chondrosarcoma/symptoms-causes/syc-20354196
+	20. Claudication is pain caused by too little blood flow to muscles during exercise. Claudication is technically a symptom of disease, most often peripheral artery disease, a narrowing of arteries in the limbs that restricts blood flow. Treatments focus on lowering the risks of vascular disease, reducing pain, increasing mobility and preventing damage to tissues.
+
+
+Source: https://www.mayoclinic.org/diseases-conditions/claudication/symptoms-causes/syc-20370952
+	21. Epilepsy is a central nervous system (neurological) disorder in which brain activity becomes abnormal, causing seizures or periods of unusual behavior, sensations and sometimes loss of awareness. Seizure symptoms can vary widely. Some people with epilepsy simply stare blankly for a few seconds during a seizure, while others repeatedly twitch their arms or legs. Treatment with medications or sometimes surgery can control seizures for the majority of people with epilepsy.
+
+
+Source: https://www.mayoclinic.org/diseases-conditions/epilepsy/symptoms-causes/syc-20350093
+	22. Esthesioneuroblastoma (es-thee-zee-o-noo-row-blas-TOE-muh) is a rare type of cancer that begins in the upper portion of the nasal cavity. Esthesioneuroblastoma treatment usually includes surgery. Often, radiation and chemotherapy are recommended, as well. Esthesioneuroblastoma symptoms include:
+* Losing the sense of smell
+* Frequent nosebleeds
+* Difficulty breathing through the nose
+Source: https://www.mayoclinic.org/diseases-conditions/esthesioneuroblastoma/symptoms-causes/syc-20351075
+	23. Gangrene is death of body tissue due to a lack of blood flow or a serious bacterial infection. Treatments for gangrene may include antibiotics, oxygen therapy, and surgery to restore blood flow and remove dead tissue. When gangrene affects the skin, signs and symptoms may include:
+* Changes in skin color — ranging from pale gray to blue, purple, black, bronze or red
+* Swelling
+* Blisters
+* Sudden, severe pain followed by a feeling of numbness
+* A foul-smelling discharge leaking from a sore
+* Thin, shiny skin, or skin without hair
+* Skin that feels cool or cold to the touc
+Source: https://www.mayoclinic.org/diseases-conditions/gangrene/symptoms-causes/syc-20352567
+	24. A goiter is the irregular growth of the thyroid gland. Treatment depends on the cause of the goiter, symptoms, and complications resulting from the goiter. Small goiters that aren't noticeable and don't cause problems usually don't need treatment. Most people with goiters have no signs or symptoms other than a swelling at the base of the neck.
+
+
+Source: https://www.mayoclinic.org/diseases-conditions/goiter/symptoms-causes/syc-20351829 
+	25. Hemophilia is a rare disorder in which the blood doesn't clot in the typical way because it doesn't have enough blood-clotting proteins (clotting factors). Treatment includes regular replacement of the specific clotting factor that is reduced. Signs and symptoms of spontaneous bleeding include:
+* Unexplained and excessive bleeding from cuts or injuries, or after surgery or dental work
+* Many large or deep bruises
+* Unusual bleeding after vaccinations
+* Pain, swelling or tightness in your joints
+* Blood in your urine or stool
+* Nosebleeds without a known cause
+* In infants, unexplained irritability
+Source: https://www.mayoclinic.org/diseases-conditions/hemophilia/symptoms-causes/syc-20373327
+	26. Hypoglycemia is a condition in which your blood sugar (glucose) level is lower than the standard range. Treatment involves quickly getting your blood sugar back to within the standard range either with a high-sugar food or drink or with medication. If blood sugar levels become too low, hypoglycemia signs and symptoms can include:
+* Looking pale
+* Shakiness
+* Sweating
+* Headache
+Source: https://www.mayoclinic.org/diseases-conditions/hypoglycemia/symptoms-causes/syc-20373685
+	27. Hypothermia is a medical emergency that occurs when your body loses heat faster than it can produce heat, causing a dangerously low body temperature. Primary treatments for hypothermia are methods to warm the body back to a normal temperature. Signs and symptoms of hypothermia include:
+* Shivering
+* Slurred speech or mumbling
+* Slow, shallow breathing
+* Weak pulse
+Source: https://www.mayoclinic.org/diseases-conditions/hypothermia/symptoms-causes/syc-20352682
+	28. Kleptomania (klep-toe-MAY-nee-uh) is a mental health disorder that involves repeatedly being unable to resist urges to steal items that you generally don't really need. Although there's no cure for kleptomania, treatment with medicine or skill-building therapy that focuses on dealing with urges may help to end the cycle of compulsive stealing. Kleptomania symptoms may include:
+* Inability to resist powerful urges to steal items that you don't need
+* Feeling increased tension, anxiety or arousal leading up to the theft
+* Feeling pleasure, relief or satisfaction while stealing
+* Feeling terrible guilt, remorse, self-loathing, shame or fear of arrest after the theft
+* Return of the urges and a repetition of the kleptomania cycle
+Source: https://www.mayoclinic.org/diseases-conditions/kleptomania/symptoms-causes/syc-20364732
+	29. Legionnaires' disease is a severe form of pneumonia — lung inflammation usually caused by infection. It's caused by a bacterium known as legionella. Although prompt treatment with antibiotics usually cures Legionnaires' disease, some people continue to have problems after treatment. Legionnaires' disease usually develops two to 10 days after exposure to legionella bacteria. It frequently begins with the following signs and symptoms:
+* Headache
+* Muscle aches
+* Fever that may be 104 F (40 C) or higher
+Source: https://www.mayoclinic.org/diseases-conditions/legionnaires-disease/symptoms-causes/syc-20351747
+	30. Liposarcoma is a rare type of cancer that begins in the fat cells. Liposarcoma is considered a type of soft tissue sarcoma. Treatment for liposarcoma typically involves surgery to remove the cancer. Other treatments, such as radiation therapy, also may be used. Liposarcoma signs and symptoms vary depending on the part of the body where the cancer forms. Liposarcoma that forms in the arms and legs can cause:
+* A growing lump of tissue under your skin
+* Pain
+* Swelling
+* Weakness of the affected limb
+Source: https://www.mayoclinic.org/diseases-conditions/liposarcoma/symptoms-causes/syc-20352632
+	31. Lymphoma is a cancer of the lymphatic system, which is part of the body's germ-fighting network. The lymphatic system includes the lymph nodes (lymph glands), spleen, thymus gland and bone marrow. Lymphoma treatment may involve chemotherapy, immunotherapy medications, radiation therapy, a bone marrow transplant or some combination of these. Signs and symptoms of lymphoma may include:
+* Painless swelling of lymph nodes in your neck, armpits or groin
+* Persistent fatigue
+* Fever
+* Night sweats
+* Shortness of breath
+* Unexplained weight loss
+* Itchy skin
+Source: https://www.mayoclinic.org/diseases-conditions/lymphoma/symptoms-causes/syc-20352638
+
+
+	32. The Zika (ZEE-kuh) virus is most often spread to people through mosquito bites, primarily in tropical and subtropical areas of the world. Most people infected with the Zika virus have no signs and symptoms. Some people have mild fever, rash and muscle pain. In rare cases, the Zika virus may cause brain or nervous system complications, such as Guillain-Barre syndrome, even in people who never show symptoms of infection. Infection with the Zika virus is also called Zika, Zika fever or Zika virus disease. Women who are infected with the Zika virus during pregnancy have an increased risk of miscarriage. Zika virus infection during pregnancy also increases the risk of serious birth defects in infants, including a potentially fatal brain condition called microcephaly.Researchers are working on a vaccine for the Zika virus. For now, the best way to prevent infection is to avoid mosquito bites and reduce mosquito habitats.Signs and symptoms of the Zika virus most commonly include:
+* Mild fever
+* Rash
+* Joint pain, particularly in the hands or feet
+* Red eyes (conjunctivitis)
+Other signs and symptoms may include:
+* Muscle pain
+* Headache
+* Eye pain
+* Fatigue or a general feeling of discomfort
+* Abdominal pain
+Source - https://www.mayoclinic.org/diseases-conditions/zika-virus/symptoms-causes/syc-20353639
+	33. The yips are involuntary wrist spasms that occur most commonly when golfers are trying to putt. However, the yips can also affect people who play other sports — such as cricket, darts and baseball. It was once thought that the yips were always associated with performance anxiety. However, it now appears that some people have the yips due to a neurological condition affecting specific muscles (focal dystonia). Changing the way you perform the affected task might help you find relief from the yips. For example, a right-handed golfer might try putting left-handed. The most common symptom associated with the yips is an involuntary muscle jerk, although some people experience tremors, twitches, spasms or freezing.
+Source - https://www.mayoclinic.org/diseases-conditions/yips/symptoms-causes/syc-20379021
+	34. X-linked agammaglobulinemia (a-gam-uh-glob-u-lih-NEE-me-uh) — also called XLA — is an inherited (genetic) immune system disorder that reduces your ability to fight infections. People with XLA might get infections of the inner ear, sinuses, respiratory tract, bloodstream and internal organs. XLA affects males almost exclusively, although females can be genetic carriers of the condition. Most people with XLA are diagnosed in infancy or early childhood, after they've had repeated infections. Some people aren't diagnosed until adulthood. Babies with XLA generally appear healthy for the first few months because they're protected by the antibodies they got from their mothers before birth. When these antibodies clear from their systems, the babies begin to develop often severe, recurrent bacterial infections — such as of the ears, lungs, sinuses and skin — that can be life-threatening.
+Source - https://www.mayoclinic.org/diseases-conditions/x-linked-agammaglobulinemia/symptoms-causes/syc-20361635
+	35. Waldenstrom macroglobulinemia (mak-roe-glob-u-lih-NEE-me-uh) is a rare type of cancer that begins in the white blood cells. If you have Waldenstrom macroglobulinemia, your bone marrow produces too many abnormal white blood cells that crowd out healthy blood cells. The abnormal white blood cells produce a protein that accumulates in the blood, impairs circulation and causes complications. Waldenstrom macroglobulinemia is considered a type of non-Hodgkin's lymphoma. It's sometimes called lymphoplasmacytic lymphoma. Waldenstrom macroglobulinemia is slow growing and may not cause signs and symptoms for many years.
+When they do occur, signs and symptoms may include:
+* Easy bruising
+* Bleeding from the nose or the gums
+* Fatigue
+* Weight loss
+* Numbness in your hands or feet
+* Fever
+* Headache
+* Shortness of breath
+* Changes in vision
+* Confusion
+Source - https://www.mayoclinic.org/diseases-conditions/waldenstrom-macroglobulinemia/symptoms-causes/syc-20359967
+	36. Dry mouth, or xerostomia (zeer-o-STOE-me-uh), refers to a condition in which the salivary glands in your mouth don't make enough saliva to keep your mouth wet. Dry mouth is often due to the side effects of certain medications or aging issues or as a result of radiation therapy for cancer. Less often, dry mouth may be caused by a condition that directly affects the salivary glands. Saliva helps prevent tooth decay by neutralizing acids produced by bacteria, limiting bacterial growth and washing away food particles. Saliva also enhances your ability to taste and makes it easier to chew and swallow. In addition, enzymes in saliva aid in digestion. Decreased saliva and dry mouth can range from being merely a nuisance to something that has a major impact on your general health and the health of your teeth and gums, as well as your appetite and enjoyment of food. Treatment for dry mouth depends on the cause. If you're not producing enough saliva, you may notice these signs and symptoms all or most of the time:
+* Dryness or a feeling of stickiness in your mouth
+* Saliva that seems thick and stringy
+* Bad breath
+* Difficulty chewing, speaking and swallowing
+* Dry or sore throat and hoarseness
+* Dry or grooved tongue
+* A changed sense of taste
+* Problems wearing dentures
+In addition, dry mouth may result in lipstick sticking to the teeth.
+Source - https://www.mayoclinic.org/diseases-conditions/dry-mouth/symptoms-causes/syc-20356048
+	37. Waldenstrom macroglobulinemia (mak-roe-glob-u-lih-NEE-me-uh) is a rare type of cancer that begins in the white blood cells. If you have Waldenstrom macroglobulinemia, your bone marrow produces too many abnormal white blood cells that crowd out healthy blood cells. The abnormal white blood cells produce a protein that accumulates in the blood, impairs circulation and causes complications. Waldenstrom macroglobulinemia is considered a type of non-Hodgkin's lymphoma. It's sometimes called lymphoplasmacytic lymphoma. Waldenstrom macroglobulinemia is slow growing and may not cause signs and symptoms for many years.
+             When they do occur, signs and symptoms may include:
+* Easy bruising
+* Bleeding from the nose or the gums
+* Fatigue
+* Weight loss
+* Numbness in your hands or feet
+* Fever
+* Headache
+* Shortness of breath
+* Changes in vision
+* Confusion
+Source - https://www.mayoclinic.org/diseases-conditions/waldenstrom-macroglobulinemia/symptoms-causes/syc-20359967
+	38. Common warts are small, grainy skin growths that occur most often on your fingers or hands. Rough to the touch, common warts also often feature a pattern of tiny black dots, which are small, clotted blood vessels. Common warts are caused by a virus and are transmitted by touch. It can take a wart as long as two to six months to develop after your skin has been exposed to the virus. Common warts are usually harmless and eventually disappear on their own. But many people choose to remove them because they find them bothersome or embarrassing.
+            Common warts usually occur on your fingers or hands and may be:
+* Small, fleshy, grainy bumps
+* Rough to the touch
+* Sprinkled with black pinpoints, which are small, clotted blood vessels
+ Source - https://www.mayoclinic.org/diseases-conditions/common-warts/symptoms-causes/syc-20371125
+	39. A swollen knee occurs when excess fluid collects in or around your knee joint. Health care providers might refer to this condition as an effusion (uh-FU-zhun) in your knee joint. A swollen knee may be the result of trauma, overuse injuries, or an underlying disease or condition. To find the cause of the swelling, your provider might need to test a sample of the fluid for infection, disease or blood from an injury. Removing some of the fluid may help reduce the pain and stiffness associated with the swelling. Once the underlying cause is known, treatment can begin. Signs and symptoms typically include:
+* Swelling. The skin around your kneecap can puff up noticeably, especially when you compare the affected knee to your other one.
+* Stiffness. When your knee joint contains excess fluid, you might not be able to bend or straighten your leg completely.
+* Pain. Depending on the cause of the fluid buildup, your knee might be very painful — to the point that it's impossible to bear weight on it.
+Source - https://www.mayoclinic.org/diseases-conditions/swollen-knee/symptoms-causes/syc-20378129
+	40. Wheat allergy is an allergic reaction to foods containing wheat. Allergic reactions can be caused by eating wheat and also, in some cases, by inhaling wheat flour. Avoiding wheat is the primary treatment for wheat allergy, but that isn't always as easy as it sounds. Wheat is found in many foods, including some you might not suspect, such as soy sauce, ice cream and hot dogs. Medications may be necessary to manage allergic reactions if you accidentally eat wheat. Wheat allergy sometimes is confused with celiac disease, but these conditions differ. Wheat allergy occurs when your body produces antibodies to proteins found in wheat. In celiac disease, a specific protein in wheat — gluten — causes a different kind of abnormal immune system reaction. Wheat allergy signs and symptoms include:
+* Swelling, itching or irritation of the mouth or throat
+* Hives, itchy rash or swelling of the skin
+* Nasal congestion
+* Headache
+* Difficulty breathing
+* Cramps, nausea or vomiting
+* Diarrhea
+* Anaphylaxis
+Source - https://www.mayoclinic.org/diseases-conditions/wheat-allergy/symptoms-causes/syc-20378897
+	41. Whipple disease is a rare bacterial infection that most often affects your joints and digestive system. Whipple disease interferes with normal digestion by impairing the breakdown of foods, and hampering your body's ability to absorb nutrients, such as fats and carbohydrates. Whipple disease can also infect other organs, including your brain, heart and eyes. Without proper treatment, Whipple disease can be serious or fatal. However, a course of antibiotics can treat Whipple disease. Digestive signs and symptoms are common in Whipple disease and may include:
+* Diarrhea
+* Stomach cramping and pain, which may worsen after meals
+* Weight loss, associated with the malabsorption of nutrients
+Other frequent signs and symptoms associated with Whipple disease include:
+* Inflamed joints, particularly the ankles, knees and wrists
+* Fatigue
+* Weakness
+* Anemia
+Source - https://www.mayoclinic.org/diseases-conditions/whipples-disease/symptoms-causes/syc-20378946
+	42. Whooping cough (pertussis) is a highly contagious respiratory tract infection. In many people, it's marked by a severe hacking cough followed by a high-pitched intake of breath that sounds like "whoop. "Before the vaccine was developed, whooping cough was considered a childhood disease. Now whooping cough primarily affects children too young to have completed the full course of vaccinations and teenagers and adults whose immunity has faded. Deaths associated with whooping cough are rare but most commonly occur in infants. That's why it's so important for pregnant women — and other people who will have close contact with an infant — to be vaccinated against whooping cough. Once you become infected with whooping cough, it takes about seven to 10 days for signs and symptoms to appear, though it can sometimes take longer. They're usually mild at first and resemble those of a common cold:
+* Runny nose
+* Nasal congestion
+* Red, watery eyes
+* Fever
+* Cough
+After a week or two, signs and symptoms worsen. Thick mucus accumulates inside your airways, causing uncontrollable coughing. Severe and prolonged coughing attacks may:
+* Provoke vomiting
+* Result in a red or blue face
+* Cause extreme fatigue
+* End with a high-pitched "whoop" sound during the next breath of air
+Source - https://www.mayoclinic.org/diseases-conditions/whooping-cough/symptoms-causes/syc-20378973
+	43. In Wolff-Parkinson-White (WPW) syndrome, an extra signaling pathway between the heart's upper and lower chambers causes a fast heartbeat (tachycardia). WPWsyndrome is a heart condition present at birth (congenital heart defect). It is fairly rare. The episodes of fast heartbeats seen in WPWsyndrome usually aren't life-threatening, but serious heart problems can occur. Rarely, WPW syndrome may lead to sudden cardiac death in children and young adults. Treatment of WPW syndrome may include special actions, medications, a shock to the heart (cardioversion) or a catheter procedure to stop the irregular heart rhythm (arrhythmia). WPW syndrome may also be called preexcitation syndrome. In general, signs and symptoms that may occur in people with WPW syndrome include:
+* A rapid, fluttering or pounding heartbeat (palpitations)
+* Chest pain
+* Difficulty breathing
+* Dizziness or lightheadedness
+* Fainting
+* Fatigue
+* Shortness of breath
+* Anxiety
+Source - https://www.mayoclinic.org/diseases-conditions/wolff-parkinson-white-syndrome/symptoms-causes/syc-20354626
+	44. A varicocele (VAR-ih-koe-seel) is an enlargement of the veins within the loose bag of skin that holds the testicles (scrotum). These veins transport oxygen-depleted blood from the testicles. A varicocele occurs when blood pools in the veins rather than circulating efficiently out of the scrotum. Varicoceles usually form during puberty and develop over time. They may cause some discomfort or pain, but they often result in no symptoms or complications. A varicocele may cause poor development of a testicle, low sperm production or other problems that may lead to infertility. Surgery to treat varicocele may be recommended to address these complications. A varicocele usually occurs on the left side of the scrotum and often produces no signs or symptoms. Possible signs and symptoms may include:
+* Pain. A dull, aching pain or discomfort is more likely when standing or late in the day. Lying down often relieves pain.
+* A mass in the scrotum. If a varicocele is large enough, a mass like a "bag of worms" may be visible above the testicle. A smaller varicocele may be too small to see but noticeable by touch.
+* Differently sized testicles. The affected testicle may be noticeably smaller than the other testicle.
+* Infertility. A varicocele may lead to difficulty fathering a child, but not all varicoceles cause infertility.
+Source - https://www.mayoclinic.org/diseases-conditions/varicocele/symptoms-causes/syc-20378771
+	45. Chickenpox is an infection caused by the varicella-zoster virus. It causes an itchy rash with small, fluid-filled blisters. Chickenpox is highly contagious to people who haven't had the disease or been vaccinated against it. Today, a vaccine is available that protects children against chickenpox. Routine vaccination is recommended by the U.S. Centers for Disease Control and Prevention (CDC). The chickenpox vaccine is a safe, effective way to prevent chickenpox and its possible complications. Other signs and symptoms, which may appear one to two days before the rash, include:
+* Fever
+* Loss of appetite
+* Headache
+* Tiredness and a general feeling of being unwell (malaise)
+Source - https://www.mayoclinic.org/diseases-conditions/chickenpox/symptoms-causes/syc-20351282
+	46. Vascular dementia is a general term describing problems with reasoning, planning, judgment, memory and other thought processes caused by brain damage from impaired blood flow to your brain. You can develop vascular dementia after a stroke blocks an artery in your brain, but strokes don't always cause vascular dementia. Whether a stroke affects your thinking and reasoning depends on your stroke's severity and location. Vascular dementia can also result from other conditions that damage blood vessels and reduce circulation, depriving your brain of vital oxygen and nutrients. Factors that increase your risk of heart disease and stroke — including diabetes, high blood pressure, high cholesterol and smoking — also raise your vascular dementia risk. Controlling these factors may help lower your chances of developing vascular dementia. Vascular dementia signs and symptoms include:
+* Confusion
+* Trouble paying attention and concentrating
+* Reduced ability to organize thoughts or actions
+* Decline in ability to analyze a situation, develop an effective plan and communicate that plan to others
+* Slowed thinking
+* Difficulty with organization
+* Difficulty deciding what to do next
+* Problems with memory
+* Restlessness and agitation
+* Unsteady gait
+* Sudden or frequent urge to urinate or inability to control passing urine
+* Depression or apathy
+Source - https://www.mayoclinic.org/diseases-conditions/vascular-dementia/symptoms-causes/syc-20378793
+	47. Tachycardia (tak-ih-KAHR-dee-uh) is the medical term for a heart rate over 100 beats a minute. Many types of irregular heart rhythms (arrhythmias) can cause tachycardia. A fast heart rate isn't always a concern. For instance, the heart rate typically rises during exercise or as a response to stress. Tachycardia may not cause any symptoms or complications. But if left untreated, some forms of tachycardia can lead to serious health problems, including heart failure, stroke or sudden cardiac death. Treatment for tachycardia may include specific maneuvers, medication, cardioversion or surgery to control a rapid heartbeat. In general, tachycardia may lead to the following signs and symptoms:
+* Sensation of a racing, pounding heartbeat or flopping in the chest (palpitations)
+* Chest pain
+* Fainting (syncope)
+* Lightheadedness
+* Rapid pulse rate
+* Shortness of breath
+Source - https://www.mayoclinic.org/diseases-conditions/canker-sore/symptoms-causes/syc-20370615
+	48. Tuberculosis (TB) is a potentially serious infectious disease that mainly affects the lungs. The bacteria that cause tuberculosis are spread from person to person through tiny droplets released into the air via coughs and sneezes. Once rare in developed countries, tuberculosis infections began increasing in 1985, partly because of the emergence of HIV, the virus that causes AIDS. HIV weakens a person's immune system, so it can't fight the TB germs. In the United States, because of stronger control programs, tuberculosis began to decrease again in 1993. But it remains a concern. Many tuberculosis strains resist the drugs most used to treat the disease. People with active tuberculosis must take many types of medications for months to get rid of the infection and prevent antibiotic resistance. Signs and symptoms of active TB include:
+* Coughing for three or more weeks
+* Coughing up blood or mucus
+* Chest pain, or pain with breathing or coughing
+* Unintentional weight loss
+* Fatigue
+* Fever
+* Night sweats
+* Chills
+* Loss of appetite
+Source - https://www.mayoclinic.org/diseases-conditions/tuberculosis/symptoms-causes/syc-20351250
+	49. Bruxism (BRUK-siz-um) is a condition in which you grind, gnash or clench your teeth. If you have bruxism, you may unconsciously clench your teeth when you're awake (awake bruxism) or clench or grind them during sleep (sleep bruxism). Sleep bruxism is considered a sleep-related movement disorder. People who clench or grind their teeth (brux) during sleep are more likely to have other sleep disorders, such as snoring and pauses in breathing (sleep apnea). Mild bruxism may not require treatment. However, in some people, bruxism can be frequent and severe enough to lead to jaw disorders, headaches, damaged teeth and other problems. Because you may have sleep bruxism and be unaware of it until complications develop, it's important to know the signs and symptoms of bruxism and to seek regular dental care. Signs and symptoms of bruxism may include:
+* Teeth grinding or clenching, which may be loud enough to wake up your sleep partner
+* Teeth that are flattened, fractured, chipped or loose
+* Worn tooth enamel, exposing deeper layers of your tooth
+* Increased tooth pain or sensitivity
+* Tired or tight jaw muscles, or a locked jaw that won't open or close completely
+* Jaw, neck or face pain or soreness
+* Pain that feels like an earache, though it's actually not a problem with your ear
+* Dull headache starting in the temples
+* Damage from chewing on the inside of your cheek
+* Sleep disruption
+Source - https://www.mayoclinic.org/diseases-conditions/bruxism/symptoms-causes/syc-20356095
+	50. Sarcoma is a type of cancer that can occur in various locations in your body. Sarcoma is the general term for a broad group of cancers that begin in the bones and in the soft (also called connective) tissues (soft tissue sarcoma). Soft tissue sarcoma forms in the tissues that connect, support and surround other body structures. This includes muscle, fat, blood vessels, nerves, tendons and the lining of your joints. There are more than 70 types of sarcoma. Treatment for sarcoma varies depending on sarcoma type, location and other factors. Signs and symptoms of sarcoma include:
+* A lump that can be felt through the skin that may or may not be painful
+* Bone pain
+* A broken bone that happens unexpectedly, such as with a minor injury or no injury at all
+* Abdominal pain
+* Weight loss
+Source - https://www.mayoclinic.org/diseases-conditions/sarcoma/symptoms-causes/syc-20351048
