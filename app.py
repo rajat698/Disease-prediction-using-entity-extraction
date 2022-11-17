@@ -45,40 +45,9 @@ def diseaseTrainer():
           nlp.update([example], drop=0.5, losses=losses)
           print("Losses",losses)
 
-
-def symptopmsTrainer():
-  text_symptoms = open('diseasedata.txt', 'r').read()
-  train_symptopms = [(text_symptoms, {"entities": [(5405,5414, 'SYMPTOPM'), (5512, 5520, 'SYMPTOPM'), (6825, 6832, 'SYMPTOPM'),
-                    (6847, 6856, 'SYMPTOPM'), (6910, 6917, 'SYMPTOPM'), (7057, 7062, 'SYMPTOPM'), (7067, 7071, 'SYMPTOPM'),
-                    (7195, 7205, 'SYMPTOPM')]})]
-
-  for i, annotations in train_symptopms:
-    for ent in annotations.get("entities"):
-      ner.add_label(ent[2])
-
-  pipe_exceptions = ["ner", "trf_wordpiecer", "trf_tok2vec"]
-  unaffected_pipes = [pipe for pipe in nlp.pipe_names if pipe not in pipe_exceptions]
-
-  with nlp.disable_pipes(*unaffected_pipes) :
- 
-    sizes = compounding(1.0, 4.0, 1.001)
-        
-    for i in range(100):
-     
-      random.shuffle(train_symptopms)
-      batches = minibatch(train_symptopms, size=sizes)
-      losses = {}
-      for batch in batches:
-        for text, annotations in batch:
-          doc = nlp.make_doc(text)
-          example = Example.from_dict(doc, annotations)
-          nlp.update([example], drop=0.5, losses=losses)
-          print("Losses",losses)
-
-print("diseaseTrainer running")
+print("Trainer running")
 diseaseTrainer()
-print("\nsymptopmsTrainer running")
-# symptopmsTrainer()
+
 
 text =  open('dataset.txt', 'r')
 doc = nlp(text.read())
