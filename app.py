@@ -44,8 +44,13 @@ doc = nlp(text.read())
 tags = []
 
 for ent in doc.ents:
-  if (ent.text, ent.label_) not in tags:
+  if ent.label_ == 'DISEASE':
+    if (ent.text, ent.label_) not in tags:
+      tags.append((ent.text, ent.label_))
+  
+  else:
     tags.append((ent.text, ent.label_))
 
 for i in tags:
-  print(i[0],'-', i[1], '\n')
+  if not i[0].isdigit() or i[0].startswith('https:'):
+    print(i[0],'-', i[1], '\n')
