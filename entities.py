@@ -10,9 +10,9 @@ def entitiesSet():
                                               (3600,3612, 'DISEASE'), (3683,3689, 'DISEASE'), (3736,3757, 'DISEASE')
                                               , (3874,3885, 'DISEASE'), (4044,4051, 'DISEASE'), (4145,4184, 'DISEASE'), (4326,4334, 'DISEASE'),
                                               (4450,4462, 'DISEASE'), (4551,4558, 'DISEASE'), (4638,4648, 'DISEASE'),
-                                              (4763, 4773, 'DISEASE'), (5613, 5621, 'DISEASE'), (7250, 7258, 'DISEASE'), (8205, 8213, 'DISEASE'), (5405,5414, 'SYMPTOPM'), (5512, 5520, 'SYMPTOPM'), (6825, 6832, 'SYMPTOPM'),
-                    (6847, 6856, 'SYMPTOPM'), (6910, 6917, 'SYMPTOPM'), (7057, 7062, 'SYMPTOPM'), (7067, 7071, 'SYMPTOPM'),
-                    (7195, 7205, 'SYMPTOPM'), (8063, 8071, 'SYMPTOPM'), (8099, 8103, 'SYMPTOPM'), (8134, 8139, 'SYMPTOPM'), (8142, 8148, 'SYMPTOPM'), (8153, 8161, 'SYMPTOPM'), (8422, 8427, 'SYMPTOPM'), (8902, 8910, 'SYMPTOPM'),
-                    (8920, 8925, 'SYMPTOPM'), (8928, 8932, 'SYMPTOPM'), (9973, 9977, 'SYMPTOPM')]})]
+                                              (4763, 4773, 'DISEASE'), (5613, 5621, 'DISEASE'), (7250, 7258, 'DISEASE'), (8205, 8213, 'DISEASE'), (5405,5414, 'SYMPTOM'), (5512, 5520, 'SYMPTOM'), (6825, 6832, 'SYMPTOM'),
+                    (6847, 6856, 'SYMPTOM'), (6910, 6917, 'SYMPTOM'), (7057, 7062, 'SYMPTOM'), (7067, 7071, 'SYMPTOM'),
+                    (7195, 7205, 'SYMPTOM'), (8063, 8071, 'SYMPTOM'), (8099, 8103, 'SYMPTOM'), (8134, 8139, 'SYMPTOM'), (8142, 8148, 'SYMPTOM'), (8153, 8161, 'SYMPTOM'), (8422, 8427, 'SYMPTOM'), (8902, 8910, 'SYMPTOM'),
+                    (8920, 8925, 'SYMPTOM'), (8928, 8932, 'SYMPTOM'), (9973, 9977, 'SYMPTOM')]})]
 
     return train
