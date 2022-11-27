@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://org.semweb/ser531project/medical#"
+     xml:base="http://org.semweb/ser531project/medical"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:medical="http://org.semweb/ser531project/medical#">
+    <owl:Ontology rdf:about="http://org.semweb/ser531project/medical#"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://org.semweb/ser531project/medical#hasSymptom -->
+
+    <owl:ObjectProperty rdf:about="http://org.semweb/ser531project/medical#hasSymptom">
+        <rdfs:domain rdf:resource="http://org.semweb/ser531project/medical#disease"/>
+        <rdfs:range rdf:resource="http://org.semweb/ser531project/medical#symptom"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://org.semweb/ser531project/medical#treatedBy -->
+
+    <owl:ObjectProperty rdf:about="http://org.semweb/ser531project/medical#treatedBy">
+        <rdfs:domain rdf:resource="http://org.semweb/ser531project/medical#disease"/>
+        <rdfs:range rdf:resource="http://org.semweb/ser531project/medical#treatment"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://org.semweb/ser531project/medical#disease -->
+
+    <owl:Class rdf:about="http://org.semweb/ser531project/medical#disease"/>
+    
+
+
+    <!-- http://org.semweb/ser531project/medical#symptom -->
+
+    <owl:Class rdf:about="http://org.semweb/ser531project/medical#symptom"/>
+    
+
+
+    <!-- http://org.semweb/ser531project/medical#treatment -->
+
+    <owl:Class rdf:about="http://org.semweb/ser531project/medical#treatment"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://org.semweb/ser531project/medical#Disease_1 -->
+
+    <owl:NamedIndividual rdf:about="http://org.semweb/ser531project/medical#Disease_1">
+        <rdf:type rdf:resource="http://org.semweb/ser531project/medical#disease"/>
+        <hasSymptom rdf:resource="http://org.semweb/ser531project/medical#Symptom_A"/>
+        <treatedBy rdf:resource="http://org.semweb/ser531project/medical#Treatment_I"/>
+        <treatedBy rdf:resource="http://org.semweb/ser531project/medical#Treatment_II"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://org.semweb/ser531project/medical#Disease_2 -->
+
+    <owl:NamedIndividual rdf:about="http://org.semweb/ser531project/medical#Disease_2">
+        <rdf:type rdf:resource="http://org.semweb/ser531project/medical#disease"/>
+        <hasSymptom rdf:resource="http://org.semweb/ser531project/medical#Symptom_B"/>
+        <hasSymptom rdf:resource="http://org.semweb/ser531project/medical#Symptom_C"/>
+        <treatedBy rdf:resource="http://org.semweb/ser531project/medical#Treatment_III"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://org.semweb/ser531project/medical#Disease_3 -->
+
+    <owl:NamedIndividual rdf:about="http://org.semweb/ser531project/medical#Disease_3">
+        <rdf:type rdf:resource="http://org.semweb/ser531project/medical#disease"/>
+        <hasSymptom rdf:resource="http://org.semweb/ser531project/medical#Symptom_D"/>
+        <treatedBy rdf:resource="http://org.semweb/ser531project/medical#Treatment_IV"/>
+        <treatedBy rdf:resource="http://org.semweb/ser531project/medical#Treatment_V"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://org.semweb/ser531project/medical#Symptom_A -->
+
+    <owl:NamedIndividual rdf:about="http://org.semweb/ser531project/medical#Symptom_A">
+        <rdf:type rdf:resource="http://org.semweb/ser531project/medical#symptom"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://org.semweb/ser531project/medical#Symptom_B -->
+
+    <owl:NamedIndividual rdf:about="http://org.semweb/ser531project/medical#Symptom_B">
+        <rdf:type rdf:resource="http://org.semweb/ser531project/medical#symptom"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://org.semweb/ser531project/medical#Symptom_C -->
+
+    <owl:NamedIndividual rdf:about="http://org.semweb/ser531project/medical#Symptom_C">
+        <rdf:type rdf:resource="http://org.semweb/ser531project/medical#symptom"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://org.semweb/ser531project/medical#Symptom_D -->
+
+    <owl:NamedIndividual rdf:about="http://org.semweb/ser531project/medical#Symptom_D">
+        <rdf:type rdf:resource="http://org.semweb/ser531project/medical#symptom"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://org.semweb/ser531project/medical#Treatment_I -->
+
+    <owl:NamedIndividual rdf:about="http://org.semweb/ser531project/medical#Treatment_I">
+        <rdf:type rdf:resource="http://org.semweb/ser531project/medical#treatment"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://org.semweb/ser531project/medical#Treatment_II -->
+
+    <owl:NamedIndividual rdf:about="http://org.semweb/ser531project/medical#Treatment_II">
+        <rdf:type rdf:resource="http://org.semweb/ser531project/medical#treatment"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://org.semweb/ser531project/medical#Treatment_III -->
+
+    <owl:NamedIndividual rdf:about="http://org.semweb/ser531project/medical#Treatment_III">
+        <rdf:type rdf:resource="http://org.semweb/ser531project/medical#treatment"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://org.semweb/ser531project/medical#Treatment_IV -->
+
+    <owl:NamedIndividual rdf:about="http://org.semweb/ser531project/medical#Treatment_IV">
+        <rdf:type rdf:resource="http://org.semweb/ser531project/medical#treatment"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://org.semweb/ser531project/medical#Treatment_V -->
+
+    <owl:NamedIndividual rdf:about="http://org.semweb/ser531project/medical#Treatment_V">
+        <rdf:type rdf:resource="http://org.semweb/ser531project/medical#treatment"/>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
