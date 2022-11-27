@@ -6,8 +6,30 @@
     <title>Diseases Database and Entity Extraction</title>
 </head>
 <body style="background-color:lightskyblue">
-    <h1 style="padding-left:125px">SER 531 Project</h1>
-    <h2>Medical Conditions: Database and Entity Extraction</h2>
-    <h4 style="padding-left:50px">by David Bieganski, Mary Le, and Rajat Yadav</h4>
+    <div style="text-align:center">
+        <h1>SER 531 Semantic Web Project</h1>
+        <h2>Medical Conditions: Database and Entity Extraction</h2>
+        <h4>by David Bieganski, Mary Le, and Rajat Yadav</h4>
+        
+        <hr color="black">
+
+        <h2>Query the Database</h2>
+        <label>Search criteria:</label>
+        <input value="Enter keywords here..."></input><br>
+        <div style="padding-top:10px">
+            <select>
+                <option>Disease</option>
+                <option>Symptom</option>
+                <option>Treatment</option>
+            </select>
+            <button>Search</button>
+        </div>
+
+        <hr color="black">
+
+        <h2>Entity Extraction</h2>
+        <textarea id="entity" name="hi" rows="25" cols="100">Place disease content here...</textarea><br>
+        <div style="padding-left:700px"><button>Submit</button></div>
+    </div>
 </body>
 </html>
