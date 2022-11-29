@@ -4,6 +4,7 @@ const http = require('http');
 var path_to_project = 'C:\\Users\\biega\\Disease-prediction-using-entity-extraction';
 var path_to_jena = 'C:\\Users\\biega\\apache-jena-4.6.1\\lib';
 var option;
+var update = false;
 
 http.createServer((request, response) => {
     if (request.method === 'GET' && (request.url === '/' || request.url === '/?')) {
@@ -18,6 +19,7 @@ http.createServer((request, response) => {
             response.end();
         });
     } else if (request.method === 'POST' && request.url === '/query') {
+        update = false;
         let body = [];
         request.on('data', (chunk) => {
           body.push(chunk);
@@ -59,6 +61,7 @@ http.createServer((request, response) => {
             });
         });
     } else if (request.method === 'POST' && request.url === '/update') {
+        update = true;
         let body = [];
         request.on('data', (chunk) => {
           body.push(chunk);
@@ -74,7 +77,18 @@ http.createServer((request, response) => {
             body = body.replace(/%0D/g, "\r");
             body = body.replace(/%0A/g, "\n");
             body = body.replace(/%7B/g, "{");
-            body = body.replace(/%7D/g, "}");
+            body = body.replace(/%7D/g, "}");  
+            body = body.replace(/%3F/g, "?");
+            body = body.replace(/%3D/g, "=");
+            body = body.replace(/%09/g, "\t");
+            body = body.replace(/%27/g, "\'");
+            body = body.replace(/%28/g, "(");
+            body = body.replace(/%29/g, ")");
+            body = body.replace(/%2C/g, ",");
+            body = body.replace(/%22/g, "\""); 
+            body = body.replace(/%E2/g, "—");
+            body = body.replace(/%80/g, "");
+            body = body.replace(/%94/g, "");
             console.log("text = " + body);
             
             // Write the CMD script
@@ -111,8 +125,13 @@ http.createServer((request, response) => {
 });
 
 function writeScript() {
-    let script = 'cd ' + path_to_project + '\n'
-    + 'javac -cp ".;' + path_to_jena + '\\*" MedicalConditions.java\n'
+    let script = 'cd ' + path_to_project + '\n';
+    if (update) {
+        script += 'python symptomsCSV.py\n';
+        script += 'javac PrepareDataInsert.java\n';
+        script += 'java PrepareDataInsert\n';
+    }
+    script += 'javac -cp ".;' + path_to_jena + '\\*" MedicalConditions.java\n'
     + 'java -cp ".;' + path_to_jena + '\\*"'
     + ' MedicalConditions ' + option + '\n' 
     + 'exit'

@@ -1,1 +1,1 @@
-<strong>Diseases</strong><br><br>Disease_4<br>Disease_1<br>Disease_3<br>Disease_2<br>
+<strong>Diseases</strong><br><br>goiter<br>Tuberculosis<br>Aspergillosis<br>Mayo<br>Gangrene<br>32<br>Epilepsy<br>Amyloidosis<br>Asbestosis<br>cancer<br>Astigmatism<br>Claudication<br>Zika<br>Hemophilia<br>Chondrosarcoma<br>Esthesioneuroblastoma<br>Dry_mouth<br>Sarcoma<br>Lymphoma<br>Brucellosis<br>Cervicitis<br>Disease_1<br>Atelectasis<br>yips<br>Disease_3<br>Hypothermia<br>AIDS<br>Tachycardia<br>Disease_2<br>Aphasia<br>Angiosarcoma<br>Kleptomania<br>Ameloblastoma<br>Liposarcoma<br>

@@ -47,8 +47,9 @@ public class MedicalConditions {
 	}
 	
 	private static void updateDatabase() {
-		File updateFile = new File("text.txt");
+		File updateFile = new File("update.txt");
 		String update = "";
+		System.out.println("...");
 		try {
 			Scanner input = new Scanner(new FileReader(updateFile));
 			while (input.hasNextLine()) {
