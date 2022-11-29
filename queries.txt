@@ -4,7 +4,7 @@ PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX med: <http://org.semweb/ser531project/medical#>
 SELECT ?subject ?predicate ?object
 WHERE {
-  ?subject rdf:type med:disease
+  ?subject rdf:type med:Disease
 }
 
 # Select all symptoms
@@ -13,7 +13,7 @@ PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX med: <http://org.semweb/ser531project/medical#>
 SELECT ?subject ?predicate ?object
 WHERE {
-  ?subject rdf:type med:symptom
+  ?subject rdf:type med:Symptom
 }
 
 # Select all treatments
@@ -22,5 +22,5 @@ PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX med: <http://org.semweb/ser531project/medical#>
 SELECT ?subject ?predicate ?object
 WHERE {
-  ?subject rdf:type med:treatment
+  ?subject rdf:type med:Treatment
 }

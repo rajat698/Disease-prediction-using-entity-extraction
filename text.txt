@@ -1,0 +1,9 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX med: <http://org.semweb/ser531project/medical#>
+INSERT DATA { med:Disease_4 rdf:type med:Disease .
+  med:Disease_4 med:hasIndication med:Symptom_A .
+  med:Disease_4 med:hasIndication med:Symptom_C .
+  med:Disease_4 med:hasIndication med:Symptom_D .
+  med:Disease_4 med:treatedBy med:Treatment_V .
+}

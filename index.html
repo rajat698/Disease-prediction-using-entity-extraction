@@ -14,22 +14,26 @@
         <hr color="black">
 
         <h2>Query the Database</h2>
-        <label>Search criteria:</label>
-        <input value="Enter keywords here..."></input><br>
-        <div style="padding-top:10px">
-            <select>
-                <option>Disease</option>
-                <option>Symptom</option>
-                <option>Treatment</option>
-            </select>
-            <button>Search</button>
-        </div>
+        <form action="/query" method="post">
+            <label>Search criteria:</label>
+            <input name="criteria" value="Enter keywords here..."></input><br>
+            <div style="padding-top:10px">
+                <select name="option">
+                    <option>Disease</option>
+                    <option>Symptom</option>
+                    <option>Treatment</option>
+                </select>
+                <input type="submit" value="Search" />
+            </div>
+        </form>
 
         <hr color="black">
 
         <h2>Entity Extraction</h2>
-        <textarea id="entity" name="hi" rows="25" cols="100">Place disease content here...</textarea><br>
-        <div style="padding-left:700px"><button>Submit</button></div>
+        <form action="/update" method="post">
+            <textarea id="entity" name="text" rows="25" cols="100">Place disease content here...</textarea><br>
+            <div style="padding-left:700px"><input type="submit" value="Submit" /></div>
+        <form>
     </div>
 </body>
 </html>
