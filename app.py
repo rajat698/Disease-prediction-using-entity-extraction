@@ -35,11 +35,16 @@ def diseaseTrainer():
           nlp.update([example], drop=0.5, losses=losses)
           print("Losses",losses)
 
-dict = {}
+dictSymptoms = {}
+dictTreatments = {}
+tags = []
+
+#Function to save disease and their symtoms, treatments in a dictionary
 def makeTags():
+
   text =  open('dataset.txt', 'r')
   doc = nlp(text.read())
-  tags = []
+  
 
   for ent in doc.ents:
     if not ent.text.isdigit() and not ent.text.startswith('https:') and ent.label_ == 'DISEASE':
@@ -49,25 +54,49 @@ def makeTags():
     else:
       tags.append((ent.text, ent.label_))
 
-  temp = 'default'
-
+  #Making a dictionary for symptopms
+  tempSym = 'default'
   for i in tags:
     if i[1] == 'DISEASE':
-      dict[i[0]] = ''
-      temp = i[0]
+      dictSymptoms[i[0]] = ''
+      tempSym = i[0]
     
     elif i[1] == 'SYMPTOM':
-      if temp != 'default':
-        if len(dict[temp]) == 0:
-          dict[temp] = i[0]
+      if tempSym != 'default':
+        if len(dictSymptoms[tempSym]) == 0:
+          dictSymptoms[tempSym] = i[0]
 
         else:    
-          dict[temp] = dict[temp] + ', ' + i[0]
+          dictSymptoms[tempSym] = dictSymptoms[tempSym] + ', ' + i[0]
 
-  for key in dict.keys():
-    if dict[key] == '':
-      dict[key] = 'No particualar symptom. Doctor\'s diagnosis required.'
+  for key in dictSymptoms.keys():
+    if dictSymptoms[key] == '':
+      dictSymptoms[key] = 'No particualar symptom. Doctor\'s diagnosis required.'
 
-def giveTags():
+  #Making a dictionary for treatments
+  tempTre = 'default'
+  for i in tags:
+    if i[1] == 'DISEASE':
+      dictTreatments[i[0]] = ''
+      tempTre = i[0]
+    
+    elif i[1] == 'TREATMENT':
+      if tempTre != 'default':
+        if len(dictTreatments[tempTre]) == 0:
+          dictTreatments[tempTre] = i[0]
+
+        else:    
+          dictTreatments[tempTre] = dictTreatments[tempTre] + ', ' + i[0]
+
+  
+  for key in dictTreatments.keys():
+      if dictTreatments[key] == '':
+        dictTreatments[key] = 'No particualar Treatment. Doctor\'s prescription required.'
+  
+#Main Function
+def main():
   diseaseTrainer()
   makeTags()
+
+if __name__ == '__main__':
+  main() 

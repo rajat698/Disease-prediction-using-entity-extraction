@@ -1,0 +1,47 @@
+Disease,Symptom,Property
+Asbestosis,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+Aspergillosis,"swelling, motion",hasSymptom
+Impetigo,sores,hasSymptom
+Atelectasis,"Rapid, Wheezing",hasSymptom
+coronary,"Pain, Nausea, vomiting, Indigestion, Sudden",hasSymptom
+Agoraphobia,Crowds,hasSymptom
+Ameloblastoma,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+9,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+Amenorrhea,"Headache, Acne",hasSymptom
+Amyloidosis,"Numbness, Swelling, Diarrhea, Pain, Pain",hasSymptom
+Angiosarcoma,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+13,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+Aphasia,"Pain, Nausea, vomiting, Flatulence",hasSymptom
+Astigmatism,"Blurred, Headaches",hasSymptom
+Difficulty,Squinting,hasSymptom
+Brucellosis,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+Cervicitis,"Pain, Nausea, Vomiting, Fever",hasSymptom
+chemotherapy,swelling,hasSymptom
+Claudication,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+Epilepsy,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+Esthesioneuroblastoma,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+Gangrene,"Swelling, Blisters, Sudden, Thin",hasSymptom
+goiter,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+Hemophilia,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+Unexplained,"Pain, Shakiness, Sweating, Headache, Shivering, Slow, Weak",hasSymptom
+Kleptomania,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+kleptomania,"Headache, aches",hasSymptom
+Fever,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+Liposarcoma,"Pain, Swelling",hasSymptom
+Lymphoma,"spleen, thymus, Fever",hasSymptom
+32,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+Zika,"Rash, Headache",hasSymptom
+yips,"twitches, infections, Numbness, Fever, Headache, Confusion",hasSymptom
+Dry mouth,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+cancer,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+Saliva,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+Dry,"Numbness, Fever, Headache, Confusion, Small, Swelling, Pain, Medications, Swelling, Headache, Cramps, vomiting, Diarrhea, Anaphylaxis, Diarrhea, nutrients, Inflamed, Fatigue, Weakness, Anemia, Fever, Cough, vomiting",hasSymptom
+White,"Fainting, Anxiety, varicocele, varicocele",hasSymptom
+varicocele,"varicocele, Pain, Infertility, Fever, Headache",hasSymptom
+Tiredness,"Confusion, Restlessness, agitation",hasSymptom
+Tachycardia,"Sensation, Fainting, Lightheadedness",hasSymptom
+Tuberculosis,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+tuberculosis,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+AIDS,"Fatigue, Fever, Chills",hasSymptom
+Bruxism,"Tired, Jaw, Pain",hasSymptom
+Sarcoma,No particualar symptom. Doctor's diagnosis required.,hasSymptom

@@ -1,0 +1,47 @@
+Disease,Treatment,Property
+Asbestosis,relieving,hasTreatment
+Aspergillosis,"observation, antifungal, medications, surgery, rehabilitation, surgery, rehabilitation",hasTreatment
+Impetigo,antibiotics,hasTreatment
+Atelectasis,No particualar Treatment. Doctor's prescription required.,hasTreatment
+coronary,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Agoraphobia,medications,hasTreatment
+Ameloblastoma,"surgery, radiation",hasTreatment
+9,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Amenorrhea,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Amyloidosis,"chemotherapy, medications, tingling, surgery",hasTreatment
+Angiosarcoma,"surgery, radiation, chemotherapy",hasTreatment
+13,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Aphasia,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Astigmatism,surgery,hasTreatment
+Difficulty,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Brucellosis,antibiotics,hasTreatment
+Cervicitis,"surgery, https://www.mayoclinic.org/diseases-conditions/cholecystitis/symptoms-causes/syc-20364867, surgery, radiation",hasTreatment
+chemotherapy,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Claudication,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Epilepsy,"medications, surgery",hasTreatment
+Esthesioneuroblastoma,"surgery, Often, radiation",hasTreatment
+Gangrene,"antibiotics, surgery, https://www.mayoclinic.org/diseases-conditions/gangrene/symptoms-causes/syc-20352567",hasTreatment
+goiter,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Hemophilia,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Unexplained,surgery,hasTreatment
+Kleptomania,No particualar Treatment. Doctor's prescription required.,hasTreatment
+kleptomania,antibiotics,hasTreatment
+Fever,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Liposarcoma,surgery,hasTreatment
+Lymphoma,"chemotherapy, medications, radiation",hasTreatment
+32,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Zika,No particualar Treatment. Doctor's prescription required.,hasTreatment
+yips,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Dry mouth,"medications, radiation",hasTreatment
+cancer,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Saliva,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Dry,antibiotics,hasTreatment
+White,medications,hasTreatment
+varicocele,Surgery,hasTreatment
+Tiredness,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Tachycardia,"medication, surgery",hasTreatment
+Tuberculosis,No particualar Treatment. Doctor's prescription required.,hasTreatment
+tuberculosis,No particualar Treatment. Doctor's prescription required.,hasTreatment
+AIDS,medications,hasTreatment
+Bruxism,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Sarcoma,No particualar Treatment. Doctor's prescription required.,hasTreatment
