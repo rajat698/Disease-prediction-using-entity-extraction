@@ -1,0 +1,30 @@
+Disease,Treatment,Property
+Asbestosis,relieving,hasTreatment
+Source,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Aspergillosis,"observation, antifungal, medications, surgery, surgery, rehabilitation",hasTreatment
+Impetigo,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Atelectasis,No particualar Treatment. Doctor's prescription required.,hasTreatment
+coronary,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Agoraphobia,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Ameloblastoma,"surgery, radiation",hasTreatment
+Amyloidosis,"chemotherapy, medications, medication, surgery",hasTreatment
+Angiosarcoma,"surgery, radiation, therapy, chemotherapy",hasTreatment
+13,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Aphasia,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Astigmatism,surgery,hasTreatment
+Brucellosis,surgery,hasTreatment
+19,"surgery, radiation, therapy, chemotherapy",hasTreatment
+Claudication,medications,hasTreatment
+Esthesioneuroblastoma,"surgery, radiation, chemotherapy, antibiotics, surgery",hasTreatment
+24,No particualar Treatment. Doctor's prescription required.,hasTreatment
+goiter,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Hemophilia,"surgery, medication, antibiotics",hasTreatment
+Liposarcoma,"surgery, chemotherapy, medications, radiation",hasTreatment
+therapy,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Zika,No particualar Treatment. Doctor's prescription required.,hasTreatment
+yips,medications,hasTreatment
+cancer,"Medications, medications",hasTreatment
+varicocele,"Surgery, medication",hasTreatment
+Tuberculosis,No particualar Treatment. Doctor's prescription required.,hasTreatment
+tuberculosis,medications,hasTreatment
+Bruxism,No particualar Treatment. Doctor's prescription required.,hasTreatment
