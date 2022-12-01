@@ -1,1 +1,1 @@
-<strong>Treatments</strong><br><br>Treatment_II<br>Treatment_IV<br>No_particualar_Treatment._Doctor's_prescription_required.<br>Treatment_V<br>Treatment_I<br>Treatment_III<br>
+<strong>Symptoms</strong><br><br>Symptom_B<br>No_particualar_symptom._Doctor's_diagnosis_required.<br>Symptom_A<br>Symptom_D<br>Symptom_C<br>
