@@ -23,7 +23,7 @@ def diseaseTrainer():
  
     sizes = compounding(1.0, 4.0, 1.001)
         
-    for i in range(100):
+    for i in range(1000):
      
       random.shuffle(train_disease)
       batches = minibatch(train_disease, size=sizes)
