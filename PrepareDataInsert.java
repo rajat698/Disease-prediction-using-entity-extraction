@@ -60,7 +60,7 @@ public class PrepareDataInsert {
 				
 				insert += "\tmed:" + disease + " rdf:type med:Disease .\r\n";
 				insert += "\tmed:" + treatment + " rdf:type med:Treatment .\r\n";
-				insert += "\tmed:" + disease + " med:hasTreatment med:" + treatment + " .\r\n";
+				insert += "\tmed:" + disease + " med:treatedBy med:" + treatment + " .\r\n";
 				in.nextLine(); // Skip the last column
 			}
 			

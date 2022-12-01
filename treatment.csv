@@ -1,4 +1,44 @@
 Disease,Treatment,Property
+Asbestosis,relieving,hasTreatment
+Aspergillosis,observation-antifungal-medications-surgery-surgery-rehabilitation,hasTreatment
+Impetigo,antibiotics,hasTreatment
+Atelectasis,No particualar Treatment. Doctor's prescription required.,hasTreatment
+coronary,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Indigestion,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Agoraphobia,medications,hasTreatment
+Crowds,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Ameloblastoma,surgery-radiation,hasTreatment
+Amenorrhea,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Amyloidosis,chemotherapy-medications-tingling-surgery,hasTreatment
+Angiosarcoma,surgery-radiation,hasTreatment
+chemotherapy,No particualar Treatment. Doctor's prescription required.,hasTreatment
+13,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Aphasia,surgery,hasTreatment
+Brucellosis,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Cervicitis,surgery,hasTreatment
+Claudication,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Epilepsy,medications-surgery,hasTreatment
+Esthesioneuroblastoma,surgery-radiation,hasTreatment
+Gangrene,antibiotics-surgery,hasTreatment
+goiter,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Hemophilia,surgery,hasTreatment
+Slow,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Kleptomania,No particualar Treatment. Doctor's prescription required.,hasTreatment
+kleptomania,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Fever,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Liposarcoma,surgery-chemotherapy-medications-radiation,hasTreatment
+32,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Zika,No particualar Treatment. Doctor's prescription required.,hasTreatment
+yips,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Numbness,No particualar Treatment. Doctor's prescription required.,hasTreatment
 Dry mouth,No particualar Treatment. Doctor's prescription required.,hasTreatment
-cancer,No particualar Treatment. Doctor's prescription required.,hasTreatment
-WPWsyndrome,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Dry,medications,hasTreatment
+Saliva,antibiotics,hasTreatment
+varicocele,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Tiredness,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Tachycardia,surgery,hasTreatment
+Tuberculosis,No particualar Treatment. Doctor's prescription required.,hasTreatment
+tuberculosis,No particualar Treatment. Doctor's prescription required.,hasTreatment
+AIDS,medications,hasTreatment
+Bruxism,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Sarcoma,No particualar Treatment. Doctor's prescription required.,hasTreatment

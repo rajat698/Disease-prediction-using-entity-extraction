@@ -1,1 +1,1 @@
-<strong>Symptoms</strong><br><br>Symptom_B<br>No_particualar_symptom._Doctor's_diagnosis_required.<br>Symptom_A<br>Symptom_D<br>Symptom_C<br>
+<strong>Diseases</strong><br><br>Aspergillosis<br>
