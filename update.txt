@@ -14,6 +14,9 @@ INSERT DATA {
 	med:Atelectasis rdf:type med:Disease .
 	med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. rdf:type med:Symptom .
 	med:Atelectasis med:hasIndication med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. .
+	med:Agoraphobia rdf:type med:Disease .
+	med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. rdf:type med:Symptom .
+	med:Agoraphobia med:hasIndication med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. .
 	med:Ameloblastoma rdf:type med:Disease .
 	med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. rdf:type med:Symptom .
 	med:Ameloblastoma med:hasIndication med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. .
@@ -35,9 +38,6 @@ INSERT DATA {
 	med:Cervicitis rdf:type med:Disease .
 	med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. rdf:type med:Symptom .
 	med:Cervicitis med:hasIndication med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. .
-	med:Chondrosarcoma rdf:type med:Disease .
-	med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. rdf:type med:Symptom .
-	med:Chondrosarcoma med:hasIndication med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. .
 	med:Claudication rdf:type med:Disease .
 	med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. rdf:type med:Symptom .
 	med:Claudication med:hasIndication med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. .
@@ -59,21 +59,12 @@ INSERT DATA {
 	med:Hypothermia rdf:type med:Disease .
 	med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. rdf:type med:Symptom .
 	med:Hypothermia med:hasIndication med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. .
-	med:Kleptomania rdf:type med:Disease .
-	med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. rdf:type med:Symptom .
-	med:Kleptomania med:hasIndication med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. .
 	med:Liposarcoma rdf:type med:Disease .
 	med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. rdf:type med:Symptom .
 	med:Liposarcoma med:hasIndication med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. .
-	med:cancer rdf:type med:Disease .
-	med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. rdf:type med:Symptom .
-	med:cancer med:hasIndication med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. .
 	med:Lymphoma rdf:type med:Disease .
 	med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. rdf:type med:Symptom .
 	med:Lymphoma med:hasIndication med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. .
-	med:32 rdf:type med:Disease .
-	med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. rdf:type med:Symptom .
-	med:32 med:hasIndication med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. .
 	med:Zika rdf:type med:Disease .
 	med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. rdf:type med:Symptom .
 	med:Zika med:hasIndication med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. .
@@ -83,6 +74,12 @@ INSERT DATA {
 	med:Dry_mouth rdf:type med:Disease .
 	med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. rdf:type med:Symptom .
 	med:Dry_mouth med:hasIndication med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. .
+	med:cancer rdf:type med:Disease .
+	med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. rdf:type med:Symptom .
+	med:cancer med:hasIndication med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. .
+	med:White rdf:type med:Disease .
+	med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. rdf:type med:Symptom .
+	med:White med:hasIndication med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. .
 	med:Tachycardia rdf:type med:Disease .
 	med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. rdf:type med:Symptom .
 	med:Tachycardia med:hasIndication med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. .
@@ -95,4 +92,94 @@ INSERT DATA {
 	med:Sarcoma rdf:type med:Disease .
 	med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. rdf:type med:Symptom .
 	med:Sarcoma med:hasIndication med:No_particualar_symptom\._Doctor\'s_diagnosis_required\. .
+	med:Mayo rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:Mayo med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:Asbestosis rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:Asbestosis med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:Aspergillosis rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:Aspergillosis med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:Atelectasis rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:Atelectasis med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:Agoraphobia rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:Agoraphobia med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:Ameloblastoma rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:Ameloblastoma med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:Amyloidosis rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:Amyloidosis med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:Angiosarcoma rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:Angiosarcoma med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:Aphasia rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:Aphasia med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:Astigmatism rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:Astigmatism med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:Brucellosis rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:Brucellosis med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:Cervicitis rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:Cervicitis med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:Claudication rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:Claudication med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:Epilepsy rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:Epilepsy med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:Esthesioneuroblastoma rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:Esthesioneuroblastoma med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:Gangrene rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:Gangrene med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:goiter rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:goiter med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:Hemophilia rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:Hemophilia med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:Hypothermia rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:Hypothermia med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:Liposarcoma rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:Liposarcoma med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:Lymphoma rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:Lymphoma med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:Zika rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:Zika med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:yips rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:yips med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:Dry_mouth rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:Dry_mouth med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:cancer rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:cancer med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:White rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:White med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:Tachycardia rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:Tachycardia med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:Tuberculosis rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:Tuberculosis med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:AIDS rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:AIDS med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
+	med:Sarcoma rdf:type med:Disease .
+	med:No_particualar_Treatment\._Doctor\'s_prescription_required\. rdf:type med:Treatment .
+	med:Sarcoma med:hasTreatment med:No_particualar_Treatment\._Doctor\'s_prescription_required\. .
 }
