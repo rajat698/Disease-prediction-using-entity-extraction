@@ -42,7 +42,9 @@ tags = []
 #Function to save disease and their symtoms, treatments in a dictionary
 def makeTags():
 
-  text =  open('dataset.txt', 'r')
+
+  text =  open('text.txt', 'r')
+  
   doc = nlp(text.read())
   
 

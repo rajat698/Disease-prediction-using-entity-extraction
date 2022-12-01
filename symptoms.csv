@@ -1,30 +1,44 @@
 Disease,Symptom,Property
 Asbestosis,No particualar symptom. Doctor's diagnosis required.,hasSymptom
-Source,No particualar symptom. Doctor's diagnosis required.,hasSymptom
-Aspergillosis,motion,hasSymptom
+Aspergillosis,swelling-motion,hasSymptom
 Impetigo,sores,hasSymptom
-Atelectasis,"Rapid, Wheezing",hasSymptom
-coronary,"Pain, Nausea, vomiting, Indigestion, Sudden, Lightheadedness",hasSymptom
-Agoraphobia,medications,hasSymptom
-Ameloblastoma,"Headache, Acne",hasSymptom
-Amyloidosis,"Numbness, tingling, Swelling, Diarrhea, Pain, Pain",hasSymptom
+Atelectasis,Rapid-Wheezing,hasSymptom
+coronary,Pain-Nausea-vomiting,hasSymptom
+Indigestion,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+Agoraphobia,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+Crowds,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+Ameloblastoma,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+Amenorrhea,Headache-Acne,hasSymptom
+Amyloidosis,Numbness-Swelling-Diarrhea-Pain-Pain,hasSymptom
 Angiosarcoma,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+chemotherapy,No particualar symptom. Doctor's diagnosis required.,hasSymptom
 13,No particualar symptom. Doctor's diagnosis required.,hasSymptom
-Aphasia,"Pain, Nausea, vomiting, Flatulence",hasSymptom
-Astigmatism,"Blurred, Headaches, Squinting",hasSymptom
-Brucellosis,"Pain, Nausea, Vomiting, Fever",hasSymptom
-19,swelling,hasSymptom
+Aphasia,Pain-Nausea-vomiting-Flatulence-Headaches-Difficulty-Squinting,hasSymptom
+Brucellosis,antibiotics,hasSymptom
+Cervicitis,Pain-Nausea-Vomiting-Fever-swelling,hasSymptom
 Claudication,No particualar symptom. Doctor's diagnosis required.,hasSymptom
-Esthesioneuroblastoma,"Swelling, Blisters, Sudden, Thin",hasSymptom
-24,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+Epilepsy,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+Esthesioneuroblastoma,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+Gangrene,Swelling-Blisters-Thin,hasSymptom
 goiter,No particualar symptom. Doctor's diagnosis required.,hasSymptom
-Hemophilia,"Unexplained, Pain, Shakiness, Sweating, Shivering, Slurred, Slow, Weak, Headache, aches",hasSymptom
-Liposarcoma,"Pain, Swelling, spleen, thymus",hasSymptom
-therapy,"Painless, Fever",hasSymptom
-Zika,Rash,hasSymptom
-yips,"twitches, infections, Fatigue, Numbness, Fever, Headache, Confusion",hasSymptom
-cancer,"Fatigue, Numbness, Fever, Headache, Confusion, Small, Sprinkled, Swelling, Stiffness, Pain, Swelling, Nasal, Headache, Cramps, vomiting, Diarrhea, Anaphylaxis, Diarrhea, nutrients, wrists, Fatigue, Weakness, Anemia, Nasal, Fever, vomiting, Fainting, Fatigue, Anxiety",hasSymptom
-varicocele,"Pain, Infertility, Fever, Headache, Tiredness, Confusion, agitation, Sensation, Lightheadedness",hasSymptom
-Tuberculosis,"infections, 1985",hasSymptom
-tuberculosis,"Fatigue, Fever, Chills",hasSymptom
-Bruxism,"Tired, Jaw, Pain",hasSymptom
+Hemophilia,Pain-Shakiness-Sweating-Headache-Shivering,hasSymptom
+Slow,Weak,hasSymptom
+Kleptomania,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+kleptomania,antibiotics-Headache-aches,hasSymptom
+Fever,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+Liposarcoma,Pain-Swelling-spleen-thymus-Fever,hasSymptom
+32,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+Zika,Rash-Headache,hasSymptom
+yips,twitches-infections,hasSymptom
+Numbness,Fever-Headache-Confusion,hasSymptom
+Dry mouth,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+Dry,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+Saliva,Fever-Headache-Confusion-Small-Swelling-Pain-Medications-Swelling-Headache-Cramps-vomiting-Diarrhea-Diarrhea-Weakness-Anemia-Fever-Cough-vomiting-medications-Fainting-Anxiety,hasSymptom
+varicocele,varicocele-Surgery-varicocele-Pain-varicocele-Infertility-Fever-Headache,hasSymptom
+Tiredness,Confusion-agitation,hasSymptom
+Tachycardia,medication-Sensation-Fainting-Lightheadedness,hasSymptom
+Tuberculosis,No particualar symptom. Doctor's diagnosis required.,hasSymptom
+tuberculosis,infections,hasSymptom
+AIDS,Fever-Chills,hasSymptom
+Bruxism,Tired-Jaw-Pain,hasSymptom
+Sarcoma,No particualar symptom. Doctor's diagnosis required.,hasSymptom

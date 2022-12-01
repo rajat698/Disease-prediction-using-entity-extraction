@@ -1,0 +1,26 @@
+# Select all diseases
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX med: <http://org.semweb/ser531project/medical#>
+SELECT ?subject ?predicate ?object
+WHERE {
+  ?subject rdf:type med:Disease
+}
+
+# Select all symptoms
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX med: <http://org.semweb/ser531project/medical#>
+SELECT ?subject ?predicate ?object
+WHERE {
+  ?subject rdf:type med:Symptom
+}
+
+# Select all treatments
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX med: <http://org.semweb/ser531project/medical#>
+SELECT ?subject ?predicate ?object
+WHERE {
+  ?subject rdf:type med:Treatment
+}
