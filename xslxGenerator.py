@@ -2,6 +2,7 @@ import app
 from app import dictSymptoms
 from app import dictTreatments
 import csv
+import pandas as pd
 
 # app.giveTags()
 app.main()
@@ -23,3 +24,4 @@ with open('treatment.csv', 'w', newline = '') as f:
 
   for key in dictTreatments.keys():
     write.writerow([key, dictTreatments[key], 'hasTreatment'])
+

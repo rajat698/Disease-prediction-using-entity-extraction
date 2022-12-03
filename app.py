@@ -3,6 +3,11 @@ import random
 from spacy.util import minibatch, compounding
 from spacy.training import Example
 import entities
+import os
+
+os.system("pip install spacy")
+os.system("python -m spacy download en_core_web_sm")
+os.system("python -m spacy download en")
 
 nlp = spacy.load("en_core_web_sm")
 ner=nlp.get_pipe("ner")
@@ -67,7 +72,7 @@ def makeTags():
           dictSymptoms[tempSym] = i[0]
 
         else:    
-          dictSymptoms[tempSym] = dictSymptoms[tempSym] + ', ' + i[0]
+          dictSymptoms[tempSym] = dictSymptoms[tempSym] + '-' + i[0]
 
   for key in dictSymptoms.keys():
     if dictSymptoms[key] == '':
@@ -86,7 +91,7 @@ def makeTags():
           dictTreatments[tempTre] = i[0]
 
         else:    
-          dictTreatments[tempTre] = dictTreatments[tempTre] + ', ' + i[0]
+          dictTreatments[tempTre] = dictTreatments[tempTre] + '-' + i[0]
 
   
   for key in dictTreatments.keys():

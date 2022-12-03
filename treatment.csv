@@ -1,30 +1,44 @@
 Disease,Treatment,Property
 Asbestosis,relieving,hasTreatment
-Source,No particualar Treatment. Doctor's prescription required.,hasTreatment
-Aspergillosis,"observation, antifungal, medications, surgery, surgery, rehabilitation",hasTreatment
-Impetigo,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Aspergillosis,observation-antifungal-medications-surgery-surgery-rehabilitation,hasTreatment
+Impetigo,antibiotics,hasTreatment
 Atelectasis,No particualar Treatment. Doctor's prescription required.,hasTreatment
 coronary,No particualar Treatment. Doctor's prescription required.,hasTreatment
-Agoraphobia,No particualar Treatment. Doctor's prescription required.,hasTreatment
-Ameloblastoma,"surgery, radiation",hasTreatment
-Amyloidosis,"chemotherapy, medications, medication, surgery",hasTreatment
-Angiosarcoma,"surgery, radiation, therapy, chemotherapy",hasTreatment
+Indigestion,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Agoraphobia,medications,hasTreatment
+Crowds,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Ameloblastoma,surgery-radiation,hasTreatment
+Amenorrhea,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Amyloidosis,chemotherapy-medications-tingling-surgery,hasTreatment
+Angiosarcoma,surgery-radiation,hasTreatment
+chemotherapy,No particualar Treatment. Doctor's prescription required.,hasTreatment
 13,No particualar Treatment. Doctor's prescription required.,hasTreatment
-Aphasia,No particualar Treatment. Doctor's prescription required.,hasTreatment
-Astigmatism,surgery,hasTreatment
-Brucellosis,surgery,hasTreatment
-19,"surgery, radiation, therapy, chemotherapy",hasTreatment
-Claudication,medications,hasTreatment
-Esthesioneuroblastoma,"surgery, radiation, chemotherapy, antibiotics, surgery",hasTreatment
-24,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Aphasia,surgery,hasTreatment
+Brucellosis,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Cervicitis,surgery-https://www.mayoclinic.org/diseases-conditions/cholecystitis/symptoms-causes/syc-20364867-surgery-radiation,hasTreatment
+Claudication,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Epilepsy,medications-surgery,hasTreatment
+Esthesioneuroblastoma,surgery-radiation,hasTreatment
+Gangrene,antibiotics-surgery,hasTreatment
 goiter,No particualar Treatment. Doctor's prescription required.,hasTreatment
-Hemophilia,"surgery, medication, antibiotics",hasTreatment
-Liposarcoma,"surgery, chemotherapy, medications, radiation",hasTreatment
-therapy,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Hemophilia,surgery,hasTreatment
+Slow,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Kleptomania,No particualar Treatment. Doctor's prescription required.,hasTreatment
+kleptomania,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Fever,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Liposarcoma,surgery-chemotherapy-medications-radiation,hasTreatment
+32,No particualar Treatment. Doctor's prescription required.,hasTreatment
 Zika,No particualar Treatment. Doctor's prescription required.,hasTreatment
-yips,medications,hasTreatment
-cancer,"Medications, medications",hasTreatment
-varicocele,"Surgery, medication",hasTreatment
+yips,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Numbness,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Dry mouth,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Dry,medications,hasTreatment
+Saliva,antibiotics,hasTreatment
+varicocele,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Tiredness,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Tachycardia,surgery,hasTreatment
 Tuberculosis,No particualar Treatment. Doctor's prescription required.,hasTreatment
-tuberculosis,medications,hasTreatment
+tuberculosis,No particualar Treatment. Doctor's prescription required.,hasTreatment
+AIDS,medications,hasTreatment
 Bruxism,No particualar Treatment. Doctor's prescription required.,hasTreatment
+Sarcoma,No particualar Treatment. Doctor's prescription required.,hasTreatment
