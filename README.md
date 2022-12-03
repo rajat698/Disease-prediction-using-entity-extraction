@@ -13,7 +13,8 @@
 * Node.js
 * Java with Apache Jena library. Get the Apache Jena library here: https://jena.apache.org/download/index.cgi
 * Python
-* Run this command to install spacey library:
+* Run these commands to install spacey library:
+    `pip install spacey`
     `python -m spacy download en`
 
 ## Running the web application
