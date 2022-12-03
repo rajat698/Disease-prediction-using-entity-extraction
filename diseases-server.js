@@ -127,7 +127,7 @@ http.createServer((request, response) => {
 function writeScript() {
     let script = 'cd ' + path_to_project + '\n';
     if (update) {
-        script += 'python app.py\n';
+        script += 'python symptomsCSV.py\n';
         script += 'javac PrepareDataInsert.java\n';
         script += 'java PrepareDataInsert\n';
     }
